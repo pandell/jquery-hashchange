@@ -1,6 +1,6 @@
 /* @license
  *
- * jQuery hashchange event - v1.3 - 7/21/2010
+ * jQuery hashchange event - v1.3a - 2014-03-18
  * http://benalman.com/projects/jquery-hashchange-plugin/
  *
  * Copyright (c) 2010 "Cowboy" Ben Alman
@@ -10,12 +10,12 @@
 
 // Script: jQuery hashchange event
 //
-// *Version: 1.3, Last updated: 7/21/2010*
+// *Version: 1.3a, Last updated: 2014-03-18*
 //
 // Project Home - http://benalman.com/projects/jquery-hashchange-plugin/
-// GitHub       - http://github.com/cowboy/jquery-hashchange/
-// Source       - http://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.js
-// (Minified)   - http://github.com/cowboy/jquery-hashchange/raw/master/jquery.ba-hashchange.min.js (0.8kb gzipped)
+// GitHub       - https://github.com/pandell/jquery-hashchange/
+// Source       - https://github.com/pandell/jquery-hashchange/raw/master/jquery.ba-hashchange.js
+// (Minified)   - https://github.com/pandell/jquery-hashchange/raw/master/jquery.ba-hashchange.min.js (0.8kb gzipped)
 //
 // About: License
 //
@@ -37,7 +37,7 @@
 // tested with, what browsers it has been tested in, and where the unit tests
 // reside (so you can test it yourself).
 //
-// jQuery Versions - 1.2.6, 1.3.2, 1.4.1, 1.4.2
+// jQuery Versions - 1.2.6, 1.3.2, 1.4.1, 1.4.2, 1.11.0
 // Browsers Tested - Internet Explorer 6-8, Firefox 2-4, Chrome 5-6, Safari 3.2-5,
 //                   Opera 9.6-10.60, iPhone 3.1, Android 1.6-2.2, BlackBerry 4.6-5.
 // Unit Tests      - http://benalman.com/code/projects/jquery-hashchange/unit/
@@ -60,6 +60,7 @@
 //
 // About: Release History
 //
+// 1.3a  - (3/18/2014) Remove explicit browser detection
 // 1.3   - (7/21/2010) Reorganized IE6/7 Iframe code to make it more
 //         "removable" for mobile-only development. Added IE6/7 document.title
 //         support. Attempted to make Iframe as hidden as possible by using
