@@ -1,6 +1,6 @@
 /* @license
  *
- * jQuery hashchange event - v1.3a - 2014-03-18
+ * jQuery hashchange event - v1.3b - 2014-04-04
  * http://benalman.com/projects/jquery-hashchange-plugin/
  *
  * Copyright (c) 2010 "Cowboy" Ben Alman
@@ -10,7 +10,7 @@
 
 // Script: jQuery hashchange event
 //
-// *Version: 1.3a, Last updated: 2014-03-18*
+// *Version: 1.3b, Last updated: 2014-04-04*
 //
 // Project Home - http://benalman.com/projects/jquery-hashchange-plugin/
 // GitHub       - https://github.com/pandell/jquery-hashchange/
@@ -60,6 +60,7 @@
 //
 // About: Release History
 //
+// 1.3b  - (4/04/2014) Remove 'window' redefinition
 // 1.3a  - (3/18/2014) Remove explicit browser detection
 // 1.3   - (7/21/2010) Reorganized IE6/7 Iframe code to make it more
 //         "removable" for mobile-only development. Added IE6/7 document.title
