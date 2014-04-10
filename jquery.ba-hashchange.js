@@ -1,6 +1,6 @@
 /* @license
  *
- * jQuery hashchange event - v1.3b - 2014-04-04
+ * jQuery hashchange event - v1.3c - 2014-04-10
  * http://benalman.com/projects/jquery-hashchange-plugin/
  *
  * Copyright (c) 2010 "Cowboy" Ben Alman
@@ -10,7 +10,7 @@
 
 // Script: jQuery hashchange event
 //
-// *Version: 1.3b, Last updated: 2014-04-04*
+// *Version: 1.3c, Last updated: 2014-04-10*
 //
 // Project Home - http://benalman.com/projects/jquery-hashchange-plugin/
 // GitHub       - https://github.com/pandell/jquery-hashchange/
