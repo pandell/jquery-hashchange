@@ -1,0 +1,28 @@
+{
+  "name": "jquery-hashchange",
+  "version": "1.3b",
+  "homepage": "https://github.com/pandell/jquery-hashchange",
+  "authors": [
+    "Ben Alman <cowboy@rj3.net>",
+    "Milan Gardian <milang@pandell.com>",
+    "John Gozde <johng@pandell.com>"
+  ],
+  "description": "jQuery hashchange event (Pandell fork)",
+  "main": "jquery.ba-hashchange.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "hashchange"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
